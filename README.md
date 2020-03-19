@@ -2,4 +2,4 @@
 
 ## Creating a digital analog clock
 
-### Using this on my computer to keeep track of time.
+### Using this on my computer to keep track of time.
